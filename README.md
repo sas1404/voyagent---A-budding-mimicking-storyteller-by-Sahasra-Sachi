@@ -5,6 +5,10 @@ VoyAgent is an end-to-end storytelling pipeline that accepts a voice prompt, ext
 
 ## Setup Instructions
 
+
+![WhatsApp Image 2025-12-06 at 02 18 15_50ac1f7d](https://github.com/user-attachments/assets/496f7290-fc49-4d50-ab64-22e651d81633)
+
+
 # Model Setup Instructions
 
 ## 1. Install Required Libraries
